@@ -49,3 +49,6 @@ pip-delete-this-directory.txt
 
 # Pyenv setup
 .python-version
+
+# output
+quick_start/
